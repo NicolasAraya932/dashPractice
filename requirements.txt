@@ -1,0 +1,7 @@
+# librerias:
+
+dash
+numpy
+matplotlib
+Flask
+pandas
